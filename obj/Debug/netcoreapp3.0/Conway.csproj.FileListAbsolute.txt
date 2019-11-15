@@ -1,0 +1,11 @@
+/home/martin/Workspace/Conway/obj/Debug/netcoreapp3.0/Conway.csprojAssemblyReference.cache
+/home/martin/Workspace/Conway/obj/Debug/netcoreapp3.0/Conway.AssemblyInfoInputs.cache
+/home/martin/Workspace/Conway/obj/Debug/netcoreapp3.0/Conway.AssemblyInfo.cs
+/home/martin/Workspace/Conway/bin/Debug/netcoreapp3.0/Conway
+/home/martin/Workspace/Conway/bin/Debug/netcoreapp3.0/Conway.deps.json
+/home/martin/Workspace/Conway/bin/Debug/netcoreapp3.0/Conway.runtimeconfig.json
+/home/martin/Workspace/Conway/bin/Debug/netcoreapp3.0/Conway.runtimeconfig.dev.json
+/home/martin/Workspace/Conway/bin/Debug/netcoreapp3.0/Conway.dll
+/home/martin/Workspace/Conway/bin/Debug/netcoreapp3.0/Conway.pdb
+/home/martin/Workspace/Conway/obj/Debug/netcoreapp3.0/Conway.dll
+/home/martin/Workspace/Conway/obj/Debug/netcoreapp3.0/Conway.pdb
