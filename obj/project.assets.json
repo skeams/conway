@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/martin/Workspace/Conway/Conway.csproj",
+      "projectUniqueName": "/home/martin/Workspace/conway/Conway.csproj",
       "projectName": "Conway",
-      "projectPath": "/home/martin/Workspace/Conway/Conway.csproj",
+      "projectPath": "/home/martin/Workspace/conway/Conway.csproj",
       "packagesPath": "/home/martin/.nuget/packages/",
-      "outputPath": "/home/martin/Workspace/Conway/obj/",
+      "outputPath": "/home/martin/Workspace/conway/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/martin/.nuget/NuGet/NuGet.Config"

@@ -9,7 +9,7 @@ namespace Conway
         static string backgroundColorCode = "\u001b[30m";
         static string blockCharacter = "\u2588";
 
-        static int FPS = 50;
+        static int FPS = 30;
 
         static int xMax = (int) Math.Floor((double)Console.WindowWidth / 2);
         static int yMax = Console.WindowHeight - 1;
